@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="javax.mail">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/javax.mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xpp3_min-1.1.4c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xstream-1.4.11.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
